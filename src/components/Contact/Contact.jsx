@@ -35,21 +35,21 @@ const Contact = () => {
             <SiGmail className='contact__option-icon'/>
             <h4>Email</h4>
             <h5 className='text'>eandrada.dev@gmail.com</h5>
-            <a href='mailto:eandrada.dev@gmail.com' target='_blank'>Enviar mail</a>
+            <a href='mailto:eandrada.dev@gmail.com' target='_blank' rel="noopener noreferrer">Enviar mail</a>
           </article>
 
           <article className='contact__option'>
             <SiMessenger className='contact__option-icon'/>
             <h4>Messenger</h4>
             <h5 className='text'>facebook.com/elias.andrada.3</h5>
-            <a href='https://m.me/elias.andrada.3' target='_blank'>Enviar Messenger</a>
+            <a href='https://m.me/elias.andrada.3' target='_blank' rel="noopener noreferrer">Enviar Messenger</a>
           </article>
 
           <article className='contact__option'>
             <IoLogoWhatsapp className='contact__option-icon'/>
             <h4>Whatsapp</h4>
             <h5 className='text'>+54 9 3572 536283</h5>
-            <a href='https://wa.me/+5493572536283' target='_blank'>Enviar Whatsapp</a>
+            <a href='https://wa.me/+5493572536283' target='_blank' rel="noopener noreferrer">Enviar Whatsapp</a>
             {/* 'https://api.whatsapp.com/send?phone=+543572536283' */}
           </article>
         </div>
