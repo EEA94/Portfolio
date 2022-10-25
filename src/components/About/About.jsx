@@ -2,8 +2,8 @@ import React from 'react';
 import './about.css';
 import aboutMe from '../../assets/me-about.jpg';
 import {FaAward} from 'react-icons/fa';
-import {FiUsers} from 'react-icons/fi';
-import {VscFolderLibrary} from 'react-icons/vsc';
+import {RiMentalHealthLine} from 'react-icons/ri';
+import {BsPersonLinesFill} from 'react-icons/bs';
 
 const About = () => {
   return (
@@ -23,19 +23,19 @@ const About = () => {
           <article className='about__card'>
             <FaAward className='about_icon'/>
             <h5>Experiencia</h5>
-            <small>Un año de experiencia</small>
+            <small>+ 1 año de experiencia</small>
           </article>
 
           <article className='about__card'>
-            <FiUsers className='about_icon'/>
-            <h5>Clientes</h5>
-            <small>Mas de 200 en todo el mundo</small>
+            <RiMentalHealthLine className='about_icon'/>
+            <h5>Habilidades</h5>
+            <small>Mas de 20 (tecnicas y blandas)</small>
           </article>
 
           <article className='about__card'>
-            <VscFolderLibrary className='about_icon'/>
-            <h5>Proyectos</h5>
-            <small>Mas de 50 terminados</small>
+            <BsPersonLinesFill className='about_icon'/>
+            <h5>Perfil</h5>
+            <small>Frontend-Fullstack</small>
           </article>
         </div>
         <p>&nbsp;&nbsp;Hace un año decidí darle un cambio a mi vida en el ámbito profesional, por ello comencé a adentrarme en el universo de la programación Web y descubrí poco a poco una profesión hermosa y apasionante en la he aprendido mucho en poco tiempo y aun sigo aprendiendo.<br/>
