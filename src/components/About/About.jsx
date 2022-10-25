@@ -38,11 +38,10 @@ const About = () => {
             <small>Mas de 50 terminados</small>
           </article>
         </div>
-
-        <p>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ullam odio beatae asperiores rem eligendi! Nihil ullam, veniam reprehenderit cum corporis mollitia a, totam libero assumenda atque officiis quaerat est possimus.
+        <p>&nbsp;&nbsp;Hace un año decidí darle un cambio a mi vida en el ámbito profesional, por ello comencé a adentrarme en el universo de la programación Web y descubrí poco a poco una profesión hermosa y apasionante en la he aprendido mucho en poco tiempo y aun sigo aprendiendo.<br/>
+        &nbsp;&nbsp;Me gusta más el área del frontend, soy una persona a la cual le motiva el aprendizaje continuo, el trabajo organizado y construir buenas relaciones personales.<br/>
+         &nbsp;&nbsp;Mi experiencia en el área esta basada en su mayoría, en los proyectos realizados en el bootcamp de Henry, con +700 horas de estudio teórico y práctico a través de las cuales pude desarrollar tanto Tech-Skills como Soft-Skills al aprender a superar desafios en equipo.
         </p>
-
         <a href='#contact' className='btn btn-primary'>Contáctame</a>
       </div>
       </div>
