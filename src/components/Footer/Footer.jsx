@@ -2,7 +2,8 @@ import React from 'react';
 import './footer.css';
 import {BsFacebook} from 'react-icons/bs';
 import {RiInstagramFill} from 'react-icons/ri';
-import {AiFillTwitterCircle} from 'react-icons/ai';
+
+import {BsTelegram} from 'react-icons/bs';
 
 const Footer = () => {
   return (
@@ -22,7 +23,7 @@ const Footer = () => {
       <div className='footer__socials'>
         <a href='https:/facebook.com'><BsFacebook/></a>
         <a href='https:/instagram.com'><RiInstagramFill/></a>
-        <a href='https:/twitter.com'><AiFillTwitterCircle/></a>
+        <a href='https:/twitter.com'><BsTelegram/></a>
       </div>
 
       <div className='footer__copyright'>
