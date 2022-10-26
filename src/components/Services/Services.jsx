@@ -45,7 +45,7 @@ const Services = () => {
             </li>
             <li>
               <BsCheck className='service__list-icon'/> 
-              <p>Creación de rutas de la aplicación web mediante React-router o usando Nextjs.</p>
+              <p>Ruteo de la aplicación web mediante React-router o usando Nextjs.</p>
             </li>
             <li>
               <BsCheck className='service__list-icon'/> 
@@ -53,11 +53,15 @@ const Services = () => {
             </li>
             <li>
               <BsCheck className='service__list-icon'/> 
-              <p>Sistema de Login y Registro conectado con el backend.</p>
+              <p>Sistema de Login y Registro conectado al backend.</p>
             </li>
             <li>
               <BsCheck className='service__list-icon'/> 
-              <p>Creación de una interface de administrador para la manipulación de la base de datos (ver, borrar, agregar, actualizar).</p>
+              <p>Creación de una interface de administrador para la manipulación de base de datos (ver, borrar, agregar, actualizar).</p>
+            </li>
+            <li>
+              <BsCheck className='service__list-icon'/> 
+              <p>Integración de chatbot.</p>
             </li>
             <li>
               <BsCheck className='service__list-icon'/> 
@@ -78,13 +82,12 @@ const Services = () => {
             </li>
             <li>
               <BsCheck className='service__list-icon'/> 
-              <p>Creacion de diseños básicos con Ilustrator.</p>
+              <p>Hosteo de la Aplicación Web.</p>
             </li>
             <li>
               <BsCheck className='service__list-icon'/> 
-              <p>Organización de objetivos a cumplir con herramientas como Trello.</p>
-            </li>
-            
+              <p>Creacion de diseños básicos con Ilustrator.</p>
+            </li>  
           </ul>
         </article>
       </div>
