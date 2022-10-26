@@ -4,43 +4,43 @@ import IMG1 from "../../assets/portfolio1.jpg";
 import IMG2 from "../../assets/portfolio2.jpg";
 import IMG3 from "../../assets/portfolio3.jpg";
 import IMG4 from "../../assets/portfolio4.jpg";
-import IMG5 from "../../assets/portfolio5.png";
+import IMG5 from "../../assets/portfolio5.jpg";
 import IMG6 from "../../assets/portfolio6.jpg";
 
 const data = [
   {
     id: 1,
     image: IMG1,
-    title: "App Weather",
-    github: "https://github.com/EEA94",
+    title: "Weather App",
+    github: "https://github.com/EEA94/Weather-App",
     demo: "https://weather-app-jet-delta.vercel.app/",
   },
   {
     id: 2,
     image: IMG2,
     title: "Henry Videogames",
-    github: "https://github.com/EEA94",
+    github: "https://github.com/EEA94/PI-Videogames",
     demo: "https://pi-videogames-ten.vercel.app/",
   },
   {
     id: 3,
     image: IMG3,
     title: "Moon Cinema",
-    github: "https://github.com/EEA94",
+    github: "https://github.com/gjuancruz/PF",
     demo: "https://moon-cinema-app.vercel.app/home",
   },
   {
     id: 4,
     image: IMG4,
     title: "Your Pet",
-    github: "https://github.com/EEA94",
+    github: "https://github.com/EEA94/-PI-Dogs",
     demo: "https://proyecto-dogs.vercel.app/",
   },
   {
     id: 5,
     image: IMG5,
     title: "ToDo List",
-    github: "https://github.com/EEA94",
+    github: "https://github.com/EEA94/ToDo-App",
     demo: "https://eea94.github.io/ToDo-App/",
   },
   {

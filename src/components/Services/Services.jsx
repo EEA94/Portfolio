@@ -78,11 +78,11 @@ const Services = () => {
             </li>
             <li>
               <BsCheck className='service__list-icon'/> 
-              <p>Creacion de diseños básicos con ilustrator.</p>
+              <p>Creacion de diseños básicos con Ilustrator.</p>
             </li>
             <li>
               <BsCheck className='service__list-icon'/> 
-              <p>Organización de tareas a cumplir con herramientas como Trello.</p>
+              <p>Organización de objetivos a cumplir con herramientas como Trello.</p>
             </li>
             
           </ul>
