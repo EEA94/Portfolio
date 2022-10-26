@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.81cd19f1.css",
-    "main.js": "/portfolio/static/js/main.9a613e46.js",
+    "main.css": "/portfolio/static/css/main.12967d53.css",
+    "main.js": "/portfolio/static/js/main.1f4817d5.js",
     "static/media/CV-Elias Andrada.pdf": "/portfolio/static/media/CV-Elias Andrada.b9b019f61f59d1dad73e.pdf",
     "static/media/me.png": "/portfolio/static/media/me.bbd0502fdf666219a761.png",
     "static/media/portfolio3.jpg": "/portfolio/static/media/portfolio3.b31d7e22d2862b21521a.jpg",
@@ -16,11 +16,11 @@
     "static/media/avatar2.jpg": "/portfolio/static/media/avatar2.2151765a69d124943ae0.jpg",
     "static/media/avatar1.jpg": "/portfolio/static/media/avatar1.a76fa7525cfb593cadf4.jpg",
     "index.html": "/portfolio/index.html",
-    "main.81cd19f1.css.map": "/portfolio/static/css/main.81cd19f1.css.map",
-    "main.9a613e46.js.map": "/portfolio/static/js/main.9a613e46.js.map"
+    "main.12967d53.css.map": "/portfolio/static/css/main.12967d53.css.map",
+    "main.1f4817d5.js.map": "/portfolio/static/js/main.1f4817d5.js.map"
   },
   "entrypoints": [
-    "static/css/main.81cd19f1.css",
-    "static/js/main.9a613e46.js"
+    "static/css/main.12967d53.css",
+    "static/js/main.1f4817d5.js"
   ]
 }
