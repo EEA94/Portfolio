@@ -45,7 +45,7 @@ body{
 
 /* <<<<<<<<<<<<<GENERAL STYLES >>>>>>>>>>>>>>> */
 .container {
-    width: var(--container-width-lg);
+    width: var(--container-width-sm);
     margin: 0 auto;
 }
 

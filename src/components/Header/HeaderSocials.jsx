@@ -1,7 +1,6 @@
 import React from 'react'
 import {BsLinkedin} from 'react-icons/bs'
 import {BsGithub} from 'react-icons/bs'
-import {HiOutlineArrowLongDown} from 'react-icons/hi'
 
 const HeaderSocials = () => {
   return (

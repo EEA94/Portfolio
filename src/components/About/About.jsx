@@ -2,7 +2,7 @@ import React from 'react';
 import './about.css';
 import aboutMe from '../../assets/me-about.jpg';
 import {FaAward} from 'react-icons/fa';
-import {RiMentalHealthLine} from 'react-icons/ri';
+import {BsFillGearFill} from 'react-icons/bs';
 import {BsPersonLinesFill} from 'react-icons/bs';
 
 const About = () => {
@@ -27,7 +27,7 @@ const About = () => {
           </article>
 
           <article className='about__card'>
-            <RiMentalHealthLine className='about_icon'/>
+            <BsFillGearFill className='about_icon'/>
             <h5>Habilidades</h5>
             <small>Mas de 20 (técnicas y blandas)</small>
           </article>
