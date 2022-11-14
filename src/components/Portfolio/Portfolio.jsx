@@ -26,8 +26,8 @@ const data = [
     id: 3,
     image: IMG3,
     title: "Moon Cinema",
-    github: "https://github.com/gjuancruz/PF",
-    demo: "https://moon-cinema-app.vercel.app/home",
+    github: "https://github.com/EEA94/Moon-Cinema",
+    demo: "https://moon-cinema.vercel.app/",
   },
   {
     id: 4,
