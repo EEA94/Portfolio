@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.97d5c4c7.css",
-    "main.js": "/portfolio/static/js/main.aad2254d.js",
+    "main.js": "/portfolio/static/js/main.284d68c9.js",
     "static/media/CV-Elias Andrada.pdf": "/portfolio/static/media/CV-Elias Andrada.d3b6f62cb3c4e350ff6e.pdf",
     "static/media/me.png": "/portfolio/static/media/me.bbd0502fdf666219a761.png",
     "static/media/portfolio3.jpg": "/portfolio/static/media/portfolio3.b31d7e22d2862b21521a.jpg",
     "static/media/portfolio4.jpg": "/portfolio/static/media/portfolio4.c031ff65722eb9d7c24c.jpg",
+    "static/media/me-about.png": "/portfolio/static/media/me-about.6ec2356219226273c4db.png",
     "static/media/portfolio2.jpg": "/portfolio/static/media/portfolio2.2f35f4fde5fbb8de7db5.jpg",
     "static/media/portfolio1.jpg": "/portfolio/static/media/portfolio1.5f9c916413ffe526daf1.jpg",
     "static/media/portfolio6.jpg": "/portfolio/static/media/portfolio6.e069823ba18e62b261e1.jpg",
     "static/media/avatar4.jpg": "/portfolio/static/media/avatar4.f4c1b9397cb7a62f76ab.jpg",
-    "static/media/me-about.jpg": "/portfolio/static/media/me-about.32c647d7b1fbb9d0ffcc.jpg",
     "static/media/portfolio5.jpg": "/portfolio/static/media/portfolio5.cdf5d59265c442623632.jpg",
     "static/media/avatar3.png": "/portfolio/static/media/avatar3.c8de8d326b495bae968f.png",
     "static/media/avatar2.jpg": "/portfolio/static/media/avatar2.2151765a69d124943ae0.jpg",
     "static/media/avatar1.jpg": "/portfolio/static/media/avatar1.a76fa7525cfb593cadf4.jpg",
     "index.html": "/portfolio/index.html",
     "main.97d5c4c7.css.map": "/portfolio/static/css/main.97d5c4c7.css.map",
-    "main.aad2254d.js.map": "/portfolio/static/js/main.aad2254d.js.map"
+    "main.284d68c9.js.map": "/portfolio/static/js/main.284d68c9.js.map"
   },
   "entrypoints": [
     "static/css/main.97d5c4c7.css",
-    "static/js/main.aad2254d.js"
+    "static/js/main.284d68c9.js"
   ]
 }
